@@ -29,5 +29,6 @@ Kyiv, Ukraine • 2023–2025
 - `index.html` — Optional visual proof page
 
 ---
+📄 Machine-readable proof: [`ai-ip-proof.json`](./ai-ip-proof.json)
 
 For legal, licensing or partnership use. © Yevhenii Ilin 2025

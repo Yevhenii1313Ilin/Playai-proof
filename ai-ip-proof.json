@@ -1,0 +1,25 @@
+{
+  "project": "PlayAI.fm",
+  "author": {
+    "name": "Yevhenii Ilin",
+    "location": "Kyiv, Ukraine",
+    "email": "ilyin.apple@icloud.com",
+    "github": "https://github.com/Yevhenii1313Ilin"
+  },
+  "description": "Emotional AI architecture with voice synthesis, reflection logs, and interaction routes created by Yevhenii Ilin as part of the PlayAI.fm platform.",
+  "created": "2023-04-01",
+  "published": "2025-05-10",
+  "license": "Custom / MIT Hybrid",
+  "proof_repository": "https://github.com/Yevhenii1313Ilin/playai-proof",
+  "core_components": [
+    "DreamRunner — voice-based AI emotional companion",
+    "OpenPulse — scheduled emotional reflection system",
+    "Reflect Log — journaling + graphing + voice memory",
+    "ReflectTabs / EmotionMap — user navigation logic",
+    "play_my_emotions — AI music emotional router",
+    "generate_dreamrunner_voice(...) — TTS orchestration",
+    "/reflect, /pulse, /dreammirror — interaction commands",
+    "VoiceNova — emotional text-to-speech voice identity"
+  ],
+  "format_version": "1.0"
+}
